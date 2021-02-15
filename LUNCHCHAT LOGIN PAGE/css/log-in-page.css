@@ -1,0 +1,329 @@
+/* screen - log-in-page */
+
+.log-in-page {
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.log-in-page .click-here-C61RwL {
+  background-color: transparent;
+  color: var(--east-side);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1014px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 8px rgba(0,0,0,0.161);;
+  top: 792px;
+  white-space: nowrap;
+  width: auto;
+}
+.log-in-page .email-address-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 751px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0.58;
+  position: absolute;
+  text-align: left;
+  top: 507px;
+  white-space: nowrap;
+  width: auto;
+}
+.log-in-page .forgot-password-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 837px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 792px;
+  white-space: nowrap;
+  width: auto;
+}
+.log-in-page .group-5-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 885px;
+  position: absolute;
+  top: 283px;
+  width: 194px;
+}
+.log-in-page .log-in-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 930px;
+  letter-spacing: 0.00px;
+  line-height: 29px;
+  position: absolute;
+  text-align: left;
+  top: 710px;
+  white-space: nowrap;
+  width: auto;
+}
+.log-in-page .lunch-chat-NmAHLx {
+  background-color: transparent;
+  color: var(--hot-pink);
+  font-family: "Raleway", Helvetica, Arial, serif;
+  font-size: 47px;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  letter-spacing: 16.21px;
+  line-height: 47px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.051);;
+  top: 8px;
+  white-space: nowrap;
+  width: 100%;
+}
+.log-in-page .lunch-chat-iZjIT4 {
+  -webkit-text-stroke: 1px rgba(214,214,214,1.0);
+  background-color: transparent;
+  color: var(--hot-pink);
+  font-family: "Raleway", Helvetica, Arial, serif;
+  font-size: 47px;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 16.21px;
+  line-height: 47px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.051);;
+  top: 8px;
+  white-space: nowrap;
+  width: 100%;
+}
+.log-in-page .password-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 751px;
+  letter-spacing: 0.00px;
+  line-height: 29px;
+  opacity: 0.58;
+  position: absolute;
+  text-align: left;
+  top: 608px;
+  white-space: nowrap;
+  width: auto;
+}
+.log-in-page .rectangle-85-C61RwL {
+  background-color: var(--white);
+  border: 1px solid var(--hot-pink);
+  border-radius: 37px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 75px;
+  left: 713px;
+  position: absolute;
+  top: 484px;
+  width: 525px;
+}
+.log-in-page .rectangle-85-VMr6Om {
+  background-color: var(--white);
+  border: 1px solid var(--hot-pink);
+  border-radius: 37px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 75px;
+  left: 713px;
+  position: absolute;
+  top: 585px;
+  width: 525px;
+}
+.log-in-page .rectangle-87-C61RwL {
+  background-color: var(--east-side);
+  border-radius: 37px;
+  height: 75px;
+  left: 846px;
+  position: absolute;
+  top: 688px;
+  width: 254px;
+}
+.log-in-page .rectangle-88-C61RwL {
+  background-color: transparent;
+  border: 3px solid var(--white);
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.161);;
+  height: 149px;
+  left: 859px;
+  position: absolute;
+  top: 263px;
+  width: 229px;
+}
+.log-in-page .rectangle-914-C61RwL {
+  background-color: transparent;
+  border: 4px solid var(--east-side);
+  border-radius: 126px;
+  box-shadow: 0px 3px 6px rgba(188,5,255,0.306);;
+  height: 660px;
+  left: 590px;
+  position: absolute;
+  top: 210px;
+  width: 766px;
+}
+.log-in-page .span0-sf5s1g {
+  color: rgba(254,111,171,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2.82px;
+}
+.log-in-page .span0-tialY6 {
+  color: rgba(254,111,171,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2.82px;
+}
+.log-in-page .span1-sf5s1g {
+  color: rgba(255,215,80,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2.82px;
+}
+.log-in-page .span1-tialY6 {
+  color: rgba(255,215,80,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2.82px;
+}
+.log-in-page .span2-sf5s1g {
+  color: rgba(125,140,196,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2.82px;
+}
+.log-in-page .span2-tialY6 {
+  color: rgba(125,140,196,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2.82px;
+}
+.log-in-page .span3-sf5s1g {
+  color: rgba(160,210,219,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2.82px;
+}
+.log-in-page .span3-tialY6 {
+  color: rgba(160,210,219,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2.82px;
+}
+.log-in-page .span4-sf5s1g {
+  color: rgba(196,144,209,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2.82px;
+}
+.log-in-page .span4-tialY6 {
+  color: rgba(196,144,209,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2.82px;
+}
+.log-in-page .span5-sf5s1g {
+  color: rgba(111,111,111,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0.00px;
+}
+.log-in-page .span5-tialY6 {
+  color: rgba(111,111,111,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0.00px;
+}
+.log-in-page .span6-sf5s1g {
+  color: rgba(125,140,196,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.log-in-page .span6-tialY6 {
+  color: rgba(125,140,196,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.log-in-page .span7-sf5s1g {
+  color: rgba(196,144,209,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.log-in-page .span7-tialY6 {
+  color: rgba(196,144,209,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.log-in-page .span8-sf5s1g {
+  color: rgba(255,215,80,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.log-in-page .span8-tialY6 {
+  color: rgba(255,215,80,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.log-in-page .span9-sf5s1g {
+  color: rgba(254,111,171,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.log-in-page .span9-tialY6 {
+  color: rgba(254,111,171,1.0);
+  font-family: 'Raleway', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+}
+:root {
+  --east-side: rgba(196,144,209,1.0);
+  --hot-pink: rgba(254,111,171,1.0);
+  --mine-shaft: rgba(47,47,47,1.0);
+  --white: rgba(255,255,255,1.0);
+}
